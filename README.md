@@ -16,17 +16,6 @@ I’m passionate about transforming raw data into actionable insights through st
 
 ---
 
-## 🚀 Featured Projects
-- [**Analysis of Demographic Factors and Disease Correlation**](#)  
-  Explored OMH public data to analyze correlations of high BP, substance use, and joint pain with demographic factors using ML techniques (KNN, PCA, Random Forests, Logistic Regression).  
-
-- [**Early Diabetes Detection**](#)  
-  Built predictive models using Kaggle’s Diabetes dataset. Implemented Logistic Regression and Random Forests to identify high-risk individuals with improved accuracy.  
-
-*(More projects available in my repositories!)*  
-
----
-
 ## 🎓 Education & Certifications
 - M.S. in Data Science (Mathematics), **University at Albany (SUNY)**  
 - B.Tech in Electronics & Communication, **S R University, India**  

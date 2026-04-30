@@ -44,7 +44,7 @@ I’m also actively exploring **AI systems**, including **Retrieval-Augmented Ge
 - **Data Research Assistant (Healthcare)**  
   Analyzed Medicaid and clinical datasets to identify trends and support research  
 
-- **Security Data Analyst @ TCS**  
+- **Assistant System Engineer @ TCS**  
   Performed log analysis and anomaly detection using Splunk SIEM  
 
 ---

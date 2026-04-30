@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Srikanth Aldi  
 
-🎯 **| Data Scientist | Exploring AI Systems (RAG & Agents)**  
-📍 M.S. in Data Science (Applied Mathematics) — University at Albany  
+ **| Data Scientist | Exploring AI Systems (RAG & Agents)**  
+ M.S. in Data Science (Applied Mathematics) — University at Albany  
 
 I work at the intersection of **data engineering, analytics, and machine learning**, building end-to-end systems that transform raw data into reliable, actionable insights.  
 
@@ -11,7 +11,7 @@ I’m also actively exploring **AI systems**, including **Retrieval-Augmented Ge
 
 ---
 
-## 🔧 What I Do
+##  What I Do
 
 - Build **data pipelines** using SQL, Python, and Snowflake  
 - Design **data models (bronze → silver → gold)** for scalable analytics  
@@ -22,7 +22,7 @@ I’m also actively exploring **AI systems**, including **Retrieval-Augmented Ge
 
 ---
 
-## 🧰 Tech Stack
+##  Tech Stack
 
 **Languages:** Python, SQL (T-SQL), R  
 **Data Engineering:** Snowflake, ETL Pipelines, Data Modeling, Airflow (basics)  
@@ -33,7 +33,7 @@ I’m also actively exploring **AI systems**, including **Retrieval-Augmented Ge
 
 ---
 
-## 💼 Experience Snapshot
+## Experience Snapshot
 
 - **Data Engineer @ Narvee Tech**  
   Working on data pipelines, Snowflake transformations, and workflow automation  
@@ -49,7 +49,7 @@ I’m also actively exploring **AI systems**, including **Retrieval-Augmented Ge
 
 ---
 
-## 📊 Featured Projects
+##  Featured Projects
 
 ### 🏥 Hypertension Risk Prediction (Machine Learning)
 - Built a predictive model using **PCA-reduced features and ensemble methods**  
@@ -58,7 +58,7 @@ I’m also actively exploring **AI systems**, including **Retrieval-Augmented Ge
 
 ---
 
-### 🏗️ SQL Data Warehouse (End-to-End ETL)
+###  SQL Data Warehouse (End-to-End ETL)
 - Designed and implemented a **medallion architecture (bronze → silver → gold)** in SQL Server  
 - Built ETL pipelines using **T-SQL and stored procedures** to ingest and transform ERP/CRM data  
 - Developed **data quality validation checks** (null handling, deduplication, reconciliation) to ensure reliable datasets  
@@ -66,7 +66,7 @@ I’m also actively exploring **AI systems**, including **Retrieval-Augmented Ge
 
 ---
 
-## 🤖 Current Focus
+##  Current Focus
 
 - Building **RAG-based applications** combining structured + unstructured data  
 - Exploring **vector search and embeddings for semantic retrieval**  
@@ -75,14 +75,14 @@ I’m also actively exploring **AI systems**, including **Retrieval-Augmented Ge
 
 ---
 
-## 🎓 Education
+##  Education
 
-- 🎓 Masters in Data Science (Mathematics) — University at Albany (SUNY)  
-- 🎓 Bachelors in Electronics & Communication — S R University  
+-  Masters in Data Science (Mathematics) — University at Albany (SUNY)  
+-  Bachelors in Electronics & Communication — S R University  
 
 ---
 
-## 📜 Certifications
+##  Certifications
 
 - Splunk Enterprise Certified Admin  
 - Splunk Core Power User  
@@ -91,10 +91,10 @@ I’m also actively exploring **AI systems**, including **Retrieval-Augmented Ge
 
 ---
 
-## 📬 Let’s Connect
+##  Let’s Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/srikanth-aldi-33b7aa212/)  
+-  [LinkedIn](https://www.linkedin.com/in/srikanth-aldi-33b7aa212/)  
 
 ---
 
-🚀 *Actively seeking Data Analyst, Data Engineer, Data Scientist, and AI-focused roles where I can build scalable data and intelligent systems.*
+ *Actively seeking Data Analyst, Data Engineer, Data Scientist, and AI-focused roles where I can build scalable data and intelligent systems.*

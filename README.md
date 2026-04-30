@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Srikanth Aldi  
 
-🎯 **Data Analyst | Data Engineer | Data Scientist | Exploring AI Systems (RAG & Agents)**  
+🎯 **| Data Scientist | Exploring AI Systems (RAG & Agents)**  
 📍 M.S. in Data Science (Applied Mathematics) — University at Albany  
 
 I work at the intersection of **data engineering, analytics, and machine learning**, building end-to-end systems that transform raw data into reliable, actionable insights.  
